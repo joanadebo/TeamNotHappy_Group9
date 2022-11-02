@@ -1,5 +1,5 @@
 # Our_first_project
-Group 9: Team Not Happy? worked together to analysis the correlation between compiled life evaluations of a 6 factor index to rankings of happiness in each country in Git.
+Group 9: Team Not Happy worked together to analysis the correlation between compiled life evaluations of a 6 factor index to rankings of happiness in each country in Git.
 
 When inquiring about how happy someone is, one often reflects on developing mental or emotional states that are evaluated based upon eudaimonia, prosperity, subjective well-being, and life satisfaction. Every year the United Nations General Assembly directs the Gallup Poll organization to randomly ask at least 1000 people in each of 160 countries to respond to a simple question:  On a scale of 0 to 10, with 0 being the worst possible life and 10 being the best, how do you rate your life at this moment? From this dataset, the UN publishes the World Happiness Report.  The report tries to factor in many quality of life variables to illustrate possible correlations.
 
