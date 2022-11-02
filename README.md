@@ -6,10 +6,10 @@ When inquiring about how happy someone is, one often reflects on developing ment
 Does this mean there is a formula for obtaining happiness?
 
 Within this repository you will find data source files for:
-World Happiness Reports for 2015-2019
-Our version of the World Happiness Report 2019 with all the compiled factors underconsideration
-WHO Alcohol Consumption for 2019
-Fertility Rate Per Capita for 2019
+World Happiness Reports for 2015-2019;
+Our version of the World Happiness Report 2019 with all the compiled factors underconsideration;
+WHO Alcohol Consumption for 2019;
+Fertility Rate Per Capita for 2019;
 
 Within the World Happiness Report 2019 you will find: 
 
