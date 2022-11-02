@@ -14,8 +14,7 @@ Fertility Rate Per Capita for 2019
 Within the World Happiness Report 2019 you will find: 
 
 That outside of the happiness score, each variable was set as a proportion of its maximum value to gauge the relative magnitude of their coefficient. Through this we were able to create an experimental equation for happiness
-Expected Happiness Score = (2.485 * Income) - (1.303 * Suicide) - (0.795 * Displaced Persons) 
-- (2.170 * Fertility) + (0.470 * taxes) + (0.807 * Cell) + 5.484
+Expected Happiness Score = (2.485 * Income)-(1.303 * Suicide)-(0.795 * Displaced Persons)-(2.170 * Fertility)+(0.470 * taxes)+(0.807 * Cell)+5.484
 
 Within the Unwrapping Happiness powerpoint you will find: 
 
